@@ -10,3 +10,5 @@ Support and updates
 By purchasing this script, you get access to support and future updates, which may include new features and improvements. We are always happy to help our users and make our product even better!
 
 AutoClicker for Drop Game in Blum offers a convenient way to automate the game, allowing you to save time and effort. Make your gameplay more efficient and enjoyable with this script!	
+
+https://github.com/vhsxlopuxok/Blum-Auto-Drop-Game/assets/103445994/6de10379-e4b7-4698-a433-a9a6b5897183
