@@ -1,6 +1,8 @@
 # **AutoClicker for Drop Game in Blum** :four_leaf_clover:
 
-This script was specially designed to automate the Drop Game in Blum. Now you can safely run the game and this script, and then leave your computer without worrying about the process. The script itself will click on the necessary points (flowers) and start a new game!
+![yurtytrmytmrtynr](https://github.com/vhsxlopuxok/Blum-DropGame/assets/103445994/b7951315-789f-4f79-ab29-d9cf3dae0a6e)
+
+**This script was specially designed to automate the Drop Game in Blum. Now you can safely run the game and this script, and then leave your computer without worrying about the process. The script itself will click on the necessary points (flowers) and start a new game!**
 
 ## Purchase of a script :moneybag:
 If you are interested in this script and you want to purchase it for your needs, you can do it here - [Boosty](https://boosty.to/vhsxlopuxok) :credit_card:
