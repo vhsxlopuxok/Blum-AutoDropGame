@@ -1,8 +1,0 @@
-1) Download Python (https://www.python.org ) and in the main screen at the very bottom click on add to PATH
-2) Download Visual Studio Code (https://code .visualstudio.com )
-3) Create a folder and name it as we want (in English), then drop our file there 
-4) Open our folder, open Terminal and paste it - python -m venv.venv
-5) Install libraries - pip install opencv-python numpy keyboard mss pygetwindow pywin32
-6) Open Blum and run the script
-Now when you click on ` (to the left of '1') we will have a script running!
-Just start playing first and click ` !!!
