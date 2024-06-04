@@ -8,7 +8,7 @@ If you are interested in this script and you want to purchase it for your needs,
 On this page you will find a detailed description of the script, instructions for installing and using it, and you can also ask any questions you are interested in.
 
 ## Support and updates :handshake:
-By purchasing this script, you get access to support and future updates, which may include new features and improvements. We are always happy to help our users and make our product even better!
+By purchasing this script, you get access to support and future updates, which may include new features and improvements. We are always happy to help our users and make our product even better! :hearts:
 
 AutoClicker for Drop Game in Blum offers a convenient way to automate the game, allowing you to save time and effort. Make your gameplay more efficient and enjoyable with this script!
 
