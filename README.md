@@ -26,6 +26,6 @@ AutoClicker for Drop Game in Blum offers a convenient way to automate the game, 
 > - Visual Studio Code
 > - Python
 
-
+> After purchase, be sure to read the instructions! I will always sign everything there so that there are no misunderstandings.
 
 https://github.com/vhsxlopuxok/Blum-Auto-Drop-Game/assets/103445994/6de10379-e4b7-4698-a433-a9a6b5897183
