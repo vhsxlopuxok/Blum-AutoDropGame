@@ -7,6 +7,11 @@ If you are interested in this script and you want to purchase it for your needs,
 
 On this page you will find a detailed description of the script, instructions for installing and using it, and you can also ask any questions you are interested in.
 
+> [!NOTE]
+  > ### **What this script does:**
+  > - Automatically collects all the flowers (points)
+  > - After completing the game, automatically starts a new one
+
 ## Support and updates :handshake:
 By purchasing this script, you get access to support and future updates, which may include new features and improvements. We are always happy to help our users and make our product even better! :hearts:
 
@@ -17,5 +22,7 @@ AutoClicker for Drop Game in Blum offers a convenient way to automate the game, 
 > - 10 minutes
 > - Visual Studio Code
 > - Python
+
+
 
 https://github.com/vhsxlopuxok/Blum-Auto-Drop-Game/assets/103445994/6de10379-e4b7-4698-a433-a9a6b5897183
