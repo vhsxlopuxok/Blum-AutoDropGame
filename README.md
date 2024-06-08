@@ -28,5 +28,6 @@
 > - Python
 
 > After purchase, be sure to read the instructions! I will always sign everything there so that there are no misunderstandings.
+> The resolution for the best script operation is 1920x180
 
 https://github.com/vhsxlopuxok/Blum-Auto-Drop-Game/assets/103445994/6de10379-e4b7-4698-a433-a9a6b5897183
