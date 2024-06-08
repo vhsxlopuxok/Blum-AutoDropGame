@@ -13,6 +13,7 @@
   > ### **What this script does:**
   > - Automatically collects all the flowers (points)
   > - After completing the game, automatically starts a new one
+  > - Detecting the Play button
   > - The script also has 2 versions.py and .exe
 
 ## Support and updates :handshake:
