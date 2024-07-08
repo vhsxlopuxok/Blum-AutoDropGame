@@ -28,6 +28,7 @@
 > - 10 minutes
 > - Visual Studio Code
 > - Python
+> - Or just download the .exe
 
 > After purchase, be sure to read the instructions! I will always sign everything there so that there are no misunderstandings.
 > The resolution for the best script operation is 1920x180!
