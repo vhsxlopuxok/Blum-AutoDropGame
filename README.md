@@ -1,6 +1,7 @@
 # **AutoClicker for Drop Game in Blum** :four_leaf_clover:
 
-![yurtytrmytmrtynr](https://github.com/vhsxlopuxok/Blum-DropGame/assets/103445994/b7951315-789f-4f79-ab29-d9cf3dae0a6e)
+![yurtytrmytmrtynr](https://github.com/vhsxlopuxok/Blum-AutoDropGame/assets/103445994/d662cd20-b240-446b-9aac-80525a375490)
+
 
 **This script was specially designed to automate the Drop Game in Blum. Now you can safely run the game and this script, and then leave your computer without worrying about the process. The script itself will click on the necessary points (flowers) and start a new game!**
 
@@ -14,6 +15,7 @@
   > - Automatically collects all the flowers (points)
   > - After completing the game, automatically starts a new one
   > - Detecting the Play button
+  > - Hit Chance
   > - The script also has 2 versions .py and .exe
 
 ## Support and updates :handshake:
