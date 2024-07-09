@@ -17,6 +17,7 @@
   > - Detecting the Play button
   > - Hit Chance
   > - The script also has 2 versions .py and .exe
+  > - A new version of the script has been added, for multi-accounting
 
 ## Support and updates :handshake:
 - 🕳️	By purchasing this script, you get access to support and future updates, which may include new features and improvements. We are always happy to help our users and make our product even better! :hearts:
